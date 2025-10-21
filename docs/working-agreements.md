@@ -23,3 +23,18 @@ This document outlines our team's communication norms and agreements.
 
 - Feedback on PRs will be constructive and focus on the code and ideas, not the individual.
 - We will use a respectful tone, and all reviews must include at least one positive comment or acknowledgment of the work done.
+
+## Part A: Activity 2 - Inclusivity Drill Summary
+
+### Roles (Week 6)
+
+- **Facilitator:** Haseeb
+- **Scribe:** Majid
+- **Contributor:** John
+- **Contributor:** Justin
+
+### Discussion Summary
+
+- **Idea 1:** Let users set savings goals and track progress visually. [Majid]
+- **Idea 2:** Goal Tracking and gaining badges/awards to gamify savings. [John]
+- **Idea 3:** add multi-currency expenses with updated exchange rate. [Justin]
